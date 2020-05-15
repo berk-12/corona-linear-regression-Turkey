@@ -2,12 +2,13 @@
 Corona Virus Factors in Turkey
 
 
+Outputs
 
 
-
-
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
